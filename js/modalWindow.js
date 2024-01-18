@@ -22,7 +22,7 @@ class MyWindow {
             `
             position: fixed;
             z-index: 20000;
-            background-image: url(/img/matrix3.gif);
+            background-image: url(https://i.ibb.co/vkFbSQ2/matrix3.gif);
             padding: 35px;
             width: ${this.size.w}px;
             height: ${this.size.h}px;
